@@ -1,0 +1,11 @@
+Variables:
+Guardan temporalmente datos que se usaran luego.
+Strings:
+Cadenas de numeros o letras.
+Funciones:
+Son ordenes que le damos al sistema para que haga cosas por nosotros, mediante "argumentos";
+los cuales le indican que tener en cuenta para proceder. Muestra el resultado a traves de la variable return.
+Declaraciones if:
+Es como una funcion con condiciones; si se cumple tal cosa, mostrar a, y sino, mostrar b.
+Valores booleanos:
+Muestran true si se cumple con la condicion, y sino, muestran false.
